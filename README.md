@@ -1,4 +1,8 @@
 <img width="1280" height="720" alt="mastermindbg" src="https://github.com/user-attachments/assets/47473fab-7aac-424c-9175-1862362a66cc" />
+<img width="613" height="360" alt="image" src="https://github.com/user-attachments/assets/3f82c8ca-3e2d-4679-b6c5-81b5749075bd" />
+<img width="571" height="66" alt="image" src="https://github.com/user-attachments/assets/d8e552f1-bcd4-4218-8006-bed919513a0f" />
+
+
 
 ## Context
 This project was made in 4 hours while watching Ted *(not an ad)* in C++ entirely in the console.
